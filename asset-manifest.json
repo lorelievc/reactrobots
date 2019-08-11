@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactrobots/static/css/main.3bf6d905.chunk.css",
+    "main.css": "/reactrobots/static/css/main.1de99456.chunk.css",
     "main.js": "/reactrobots/static/js/main.190691e4.chunk.js",
     "main.js.map": "/reactrobots/static/js/main.190691e4.chunk.js.map",
     "runtime~main.js": "/reactrobots/static/js/runtime~main.b5f2a438.js",
@@ -9,10 +9,10 @@
     "static/js/2.9c7d66f5.chunk.js": "/reactrobots/static/js/2.9c7d66f5.chunk.js",
     "static/js/2.9c7d66f5.chunk.js.map": "/reactrobots/static/js/2.9c7d66f5.chunk.js.map",
     "index.html": "/reactrobots/index.html",
-    "precache-manifest.a94d8bc9813fcf2e82eaaab398ef20f6.js": "/reactrobots/precache-manifest.a94d8bc9813fcf2e82eaaab398ef20f6.js",
+    "precache-manifest.0a7a067d123e7da139145781690cffec.js": "/reactrobots/precache-manifest.0a7a067d123e7da139145781690cffec.js",
     "service-worker.js": "/reactrobots/service-worker.js",
     "static/css/2.2ec98f22.chunk.css.map": "/reactrobots/static/css/2.2ec98f22.chunk.css.map",
-    "static/css/main.3bf6d905.chunk.css.map": "/reactrobots/static/css/main.3bf6d905.chunk.css.map",
+    "static/css/main.1de99456.chunk.css.map": "/reactrobots/static/css/main.1de99456.chunk.css.map",
     "static/media/App.css": "/reactrobots/static/media/SEGA.12a3db8b.woff"
   }
 }
